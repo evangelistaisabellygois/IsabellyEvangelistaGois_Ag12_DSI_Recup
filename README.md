@@ -27,10 +27,10 @@ Este site foi criado para mostrar um dos meus hobby, que é acompanhar o univers
 
 # 📂 Estrutura Geral
 
- ├── Curiosidadesheroisdadc.html
- ├── superman.jpg
- ├── batman.jpg
- ├── mulhermaravilha.jpg
+* ├── Curiosidadesheroisdadc.html
+* ├── superman.jpg
+* ├── batman.jpg
+* ├── mulhermaravilha.jpg
 
 # 🌐 Objetivo
 
