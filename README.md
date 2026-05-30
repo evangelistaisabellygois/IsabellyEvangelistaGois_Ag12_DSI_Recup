@@ -38,6 +38,4 @@ Praticar os conhecimentos aprendidos em desenvolvimento web, utilizando imagens,
 
 # ✨ Autor
 
-Eu, Isaa (Isabelly)
-
-Desenvolvido por Isa 💜
+Eu, Isaa 💜
